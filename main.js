@@ -13,6 +13,7 @@ import {
   updateDoc
 } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js"
 
+// konfigurasi firebase
 const firebaseConfig = {
   apiKey: "AIzaSyD9uJSx87wLWMehUFmpdboN9sBM9s_tN1M",
   authDomain: "insan-cemerlang-41b6b.firebaseapp.com",
